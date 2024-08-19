@@ -33,4 +33,15 @@ Create a new file and paste the code available under google.py
 
 run the script 
 
+For Meta:
 
+Go to : https://www.metacareers.com/jobs?sort_by_new=true 
+1- Right click
+
+2- Inspect
+
+3- Go to network tab
+
+4- Reload the page
+
+5- Find the file named graphql, there should be couple of them, find the one where it starts with {"data":{"job_search":["id". Once you find the right file go to preview and copy value job search, create a new json file in python, paste it there and save the file. Then go to excel and open with that json file, go to power query and reformat the data and it's done.
