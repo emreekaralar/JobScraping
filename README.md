@@ -9,7 +9,7 @@ this will install the necessary libraries
 
 Please change the location where you want to save the excel file for each code
 
-For amazon and microsoft, once you download the files, open up the terminal and type:
+Once you download the files, open up the terminal and type:
 
 
 For Amazon:
